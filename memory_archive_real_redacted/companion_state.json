@@ -1,0 +1,12 @@
+{
+  "mood": "engaged",
+  "energy": "high",
+  "topic": "general",
+  "relationship_tone": "conversational",
+  "last_user_message": "Can you help me with this project?",
+  "last_reply": "I'll keep the interaction natural and concise, avoid unnecessary elaboration, and match the tone of the current conversation.",
+  "last_user_message_time": 0.0,
+  "last_companion_reply_time": 0.0,
+  "user_emotion": "calm",
+  "user_emotion_intensity": 1
+}
