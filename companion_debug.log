@@ -1,0 +1,41 @@
+19:11:06.492 [START] (MainThread) brain model: koboldcpp/Qwen3-4B-Nymphaea-RP.i1-Q4_K_S
+19:11:06.495 [START] (MainThread) Horde API key: present
+19:11:06.497 [START] (MainThread) database: companion.db | transcript entries: 0 | long-term memories: 0
+19:11:06.498 [START] (MainThread) logging: console=on file=companion_debug.log full-dumps=on
+
+19:11:20.485 [MSG] (Thread-5) User sent message
+19:11:20.486 [SCREEN] (Thread-5) screenshot EMPTY/None in 0.00s
+19:11:20.487 [TURN] (Thread-5) === direct turn ===
+19:11:20.496 [TURN] (Thread-5) long-term memories passed in: 0
+
+19:11:20.496 [STATE] (Thread-5) mood=engaged energy=normal topic=general tone=conversational
+
+19:11:20.502 [PROMPT] (Thread-5) system blocks:
+  CORE PROFILE
+  COMPANION SELF PROFILE
+  SHARED INTERACTION HISTORY
+  USER PREFERENCES
+  EVOLVING OPINIONS
+  CONVERSATIONAL TENDENCIES
+  INTERNAL CONTINUITY
+  CURRENT ATTENTION
+  SITUATIONAL CONTEXT
+  INTERACTION RITUALS
+  CONVERSATIONAL RHYTHM
+  COMPANIONSHIP MODE
+
+19:11:20.503 [VISION] (Thread-5) visual note generated | timeline: No recent screen history yet.
+19:11:20.504 [PROMPT] (Thread-5) request assembled and sent to model
+
+19:12:20.620 [BRAIN] (Thread-5) response received
+19:12:20.622 [HISTORY] (Thread-5) recorded exchange; transcript now 2 entries
+19:12:20.624 [MEMORY] (Thread-5) message not memory-worthy
+19:12:20.627 [BOOKKEEPING] (Thread-6) relationship bookkeeping completed
+19:12:20.632 [MSG] (Thread-5) Companion replied; sending to chat window and voice
+
+19:12:20.639 [VOICE] (Thread-7) speak() start | response text | configured delivery style
+19:12:20.650 [VOICE] (Thread-7) client ready; requesting audio from Gemini TTS
+19:12:40.658 [VOICE] (Thread-8) still waiting on Google after 20s
+
+19:14:21.632 [INITIATIVE] (Thread-4) User is active; initiative counters reset
+19:14:36.664 [INITIATIVE] (Thread-4) waiting for next initiative window

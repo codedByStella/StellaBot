@@ -1,0 +1,31 @@
+# Secrets and local environment
+.env
+.env.*
+!.env.example
+.venv/
+venv/
+env/
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Mutable Companion runtime state (checked-in root artifacts are examples)
+.companion_runtime/
+companion_runtime.db
+companion_runtime.db-*
+*.db-wal
+*.db-shm
+companion_visual_storyboard.*
+
+# Editor and operating-system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Generated runtime memory archives
+/memory_archive-*/

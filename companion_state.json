@@ -1,0 +1,12 @@
+{
+  "mood": "engaged",
+  "energy": "high",
+  "topic": "technology",
+  "relationship_tone": "conversational",
+  "last_user_message": "Oh just working on being able to talk to you.",
+  "last_reply": "I see the PowerShell window. Admin access, huh? What are you working on? Let me know if it's something that might affect the computer.",
+  "last_user_message_time": 0.0,
+  "last_companion_reply_time": 0.0,
+  "user_emotion": "calm",
+  "user_emotion_intensity": 1
+}

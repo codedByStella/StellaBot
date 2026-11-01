@@ -1,0 +1,17 @@
+[
+  {
+    "who": "Companion",
+    "text": "Hey! I noticed you've been in Settings a few times. What are you tinkering with? I like seeing what you're working on.",
+    "ts": 0
+  },
+  {
+    "who": "User",
+    "text": "Oh, just working on being able to talk to you.",
+    "ts": 1
+  },
+  {
+    "who": "Companion",
+    "text": "I see the PowerShell window. Admin access, huh? What are you working on? Just let me know if it's something that might affect the computer.",
+    "ts": 2
+  }
+]
